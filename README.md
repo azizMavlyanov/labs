@@ -3,7 +3,7 @@
 ---
 # Выпускной проект:
 ### Название: Expensify
-### Описание: это веб-приложение позволяет вести учет финансовых расходы в виде списка и мониторить их
+### Описание: это веб-приложение позволяет вести учет финансовых расходов в виде списка и мониторить их
 ### Ссылка на проект: [https://budgetappexpensify.herokuapp.com/](https://budgetappexpensify.herokuapp.com/)
 ### Ссылка на исходники в github: [https://github.com/azizMavlyanov/BudgetApp](https://github.com/azizMavlyanov/BudgetApp)
 
