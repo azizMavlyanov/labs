@@ -1,7 +1,15 @@
 # [Ссылка на GitHub Pages](https://github.com/azizMavlyanov/labs/)
 # Автор: Азизбек Мавлянов (с)2020
 ---
-# Список лабораторных работ:
-* ## [Лабораторная работа от 07.02.2020](https://github.com/azizMavlyanov/labs/tree/master/07-02-2020/)
-  ### [Задание](https://kodaktor.ru/g/xml_intro)
+# Выпускной проект:
+### Название: Expensify
+### Описание: это веб-приложение позволяет вести учет финансовых расходы в виде списка и мониторить их
+### Ссылка на проект: [https://dashboard.heroku.com/apps/budgetappexpensify](https://dashboard.heroku.com/apps/budgetappexpensify)
+### Ссылка на исходники в github: [https://github.com/azizMavlyanov/BudgetApp](https://github.com/azizMavlyanov/BudgetApp)
+
+# Курсовой проект:
+
+# Опубликованная статья:
+
+
 
