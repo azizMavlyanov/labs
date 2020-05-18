@@ -1,4 +1,4 @@
-# [Ссылка на GitHub Pages](https://github.com/azizMavlyanov/labs/)
+# [Ссылка на GitHub Pages](https://azizmavlyanov.github.io/portfolio-2020/)
 
 # Автор: Азизбек Мавлянов (с)2020
 
