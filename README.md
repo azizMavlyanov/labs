@@ -10,7 +10,7 @@
 
 ### Описание: это веб-приложение позволяет вести учет финансовых расходов в виде списка и мониторить их
 
-### Ссылка на проект: [https://budgetappexpensify.herokuapp.com/](https://budgetappexpensify.herokuapp.com/)
+### Ссылка на проект: [https://azizexpensetracker.herokuapp.com](https://azizexpensetracker.herokuapp.com)
 
 ### Ссылка на исходники в github: [https://github.com/azizMavlyanov/portfolio-2020/tree/master/expensify](https://github.com/azizMavlyanov/portfolio-2020/tree/master/expensify)
 
